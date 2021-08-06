@@ -19,7 +19,6 @@ function App() {
       <div class="card mt-5 w-25">
         <h5 class="card-header">Click Counter</h5>
         <div class="card-body">
-          <h5 class="card-title"></h5>
           <p class="card-text">Count: {count}</p>
           <button class="btn btn-primary" onClick={handleIncrementEvent} style={marginRight}>Click Me!</button>
           <button class="btn btn-success text-white" onClick={handleResetEvent}>Reset</button>
