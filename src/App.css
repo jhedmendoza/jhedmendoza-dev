@@ -20,6 +20,7 @@ body {
     padding: 3%;
     max-width: 980px; /*max width of search*/
     margin: 0 auto;
+    font-size:18px;
 }
 .no-margin-top {
     margin-top: 0
@@ -54,4 +55,6 @@ body {
     }
 }
 
-.btn-search {height:50px;border-top-left-radius: 0;border-bottom-left-radius: 0;}
+.btn-search {height:50px;border-top-left-radius: 0;border-bottom-left-radius: 0;font-size: 18px;}
+.container-meanings {background-color:#ffffff; border-radius: 5px;}
+.part-of-speech {font-size:12px;color:#70757a}
