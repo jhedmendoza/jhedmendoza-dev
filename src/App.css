@@ -54,4 +54,4 @@ body {
     }
 }
 
-.btn-search {height:50px}
+.btn-search {height:50px;border-top-left-radius: 0;border-bottom-left-radius: 0;}
